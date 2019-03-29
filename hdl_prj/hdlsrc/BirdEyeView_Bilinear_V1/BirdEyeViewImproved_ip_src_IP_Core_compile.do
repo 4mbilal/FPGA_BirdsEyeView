@@ -1,0 +1,11 @@
+vlib work
+vlog  BirdEyeViewImproved_ip_src_Bilinear_interpolation.v
+vlog  BirdEyeViewImproved_ip_src_RGB2Vector.v
+vlog  BirdEyeViewImproved_ip_src_Data_Mux.v
+vlog  BirdEyeViewImproved_ip_src_Line_Buffer_Read_Address.v
+vlog  BirdEyeViewImproved_ip_src_Line_Buffer_Write_Address.v
+vlog  BirdEyeViewImproved_ip_src_rgb_signal_gen.v
+vlog  BirdEyeViewImproved_ip_src_RGB2INTENSITY.v
+vlog  BirdEyeViewImproved_ip_src_Color_Space_Converter.v
+vlog  BirdEyeViewImproved_ip_src_DualPortRAM_generic.v
+vlog  BirdEyeViewImproved_ip_src_IP_Core.v

@@ -1,0 +1,10 @@
+BirdEyeView_Bilinear_V1/IP_Core/Bilinear interpolation --> BirdEyeViewImproved_ip_src_Bilinear_interpolation
+BirdEyeView_Bilinear_V1/IP_Core/RGB2Vector --> BirdEyeViewImproved_ip_src_RGB2Vector
+BirdEyeView_Bilinear_V1/IP_Core/Data_Mux --> BirdEyeViewImproved_ip_src_Data_Mux
+BirdEyeView_Bilinear_V1/IP_Core/Line_Buffer_Read_Address --> BirdEyeViewImproved_ip_src_Line_Buffer_Read_Address
+BirdEyeView_Bilinear_V1/IP_Core/Line_Buffer_Write_Address --> BirdEyeViewImproved_ip_src_Line_Buffer_Write_Address
+BirdEyeView_Bilinear_V1/IP_Core/rgb_signal_gen --> BirdEyeViewImproved_ip_src_rgb_signal_gen
+BirdEyeView_Bilinear_V1/IP_Core/Color Space Converter/RGB2INTENSITY --> BirdEyeViewImproved_ip_src_RGB2INTENSITY
+BirdEyeView_Bilinear_V1/IP_Core/Color Space Converter --> BirdEyeViewImproved_ip_src_Color_Space_Converter
+BirdEyeView_Bilinear_V1/IP_Core/DualPortRAM_generic --> BirdEyeViewImproved_ip_src_DualPortRAM_generic
+BirdEyeView_Bilinear_V1/IP_Core --> BirdEyeViewImproved_ip_src_IP_Core
